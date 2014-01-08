@@ -1,8 +1,8 @@
 {
-	"name":	"wiki-plugin-twadio",
-	"version":	"0.1.1",
-	"description": "Federated Wiki - Twadio Plug-in",
-	"keywords":	[
+  "name": "wiki-plugin-twadio",
+  "version": "0.1.2",
+  "description": "Federated Wiki - Twadio Plug-in",
+  "keywords": [
     "wiki",
     "federated wiki",
     "plugin"
