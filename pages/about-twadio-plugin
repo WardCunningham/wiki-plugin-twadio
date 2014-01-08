@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "66fdef554da87c89",
-      "text": "The Twadio plugin provides radio transmitter control and content scheduling for servers equipped with the Peaberry software-defined radio. [https://github.com/WardCunningham/Smallest-Federated-Wiki/tree/master/client/plugins/twadio github]"
+      "text": "The Twadio plugin provides radio transmitter control and content scheduling for servers equipped with the Peaberry software-defined radio. [https://github.com/fedwiki/wiki-plugins-twadio github]"
     },
     {
       "type": "paragraph",
@@ -366,6 +366,16 @@
         "text": "See the [[SDR Control Panel]] for an example of the plugin. It will show a status of 'closed' if it cannot connect to a radio."
       },
       "date": 1361221510681
+    },
+    {
+      "type": "edit",
+      "id": "66fdef554da87c89",
+      "item": {
+        "type": "paragraph",
+        "id": "66fdef554da87c89",
+        "text": "The Twadio plugin provides radio transmitter control and content scheduling for servers equipped with the Peaberry software-defined radio. [https://github.com/fedwiki/wiki-plugins-twadio github]"
+      },
+      "date": 1389191317901
     }
   ]
 }

@@ -38,10 +38,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "to be confirmed"
+    "url": "https://github.com/fedwiki/wiki-plugin-activity.git"
   },
   "bugs": {
-    "url": "to be confirmed"
+    "url": "https://github.com/fedwiki/wiki-plugin-twadio/issues"
   },
   "engines": {
     "node": "0.10"
