@@ -27,7 +27,7 @@
       "text": "[[Jeremy McDermond NH6Z Notes]]<br>Stupid Raspberry Pi Tricks"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "0bb3bb88f679c529",
       "text": "[[Ward Cunningham K9OX Notes]]<br>Federation and Refactoring for Innovation in Radio"
     },
@@ -620,6 +620,16 @@
         "text": "These are suggested page names for your notes about scheduled talks. Tip: Click the link, then chose <i>create</i> from Event and Speaker Notes Template."
       },
       "date": 1418372230046
+    },
+    {
+      "type": "edit",
+      "id": "0bb3bb88f679c529",
+      "item": {
+        "type": "html",
+        "id": "0bb3bb88f679c529",
+        "text": "[[Ward Cunningham K9OX Notes]]<br>Federation and Refactoring for Innovation in Radio"
+      },
+      "date": 1418543144196
     }
   ],
   "plugin": "twadio"
