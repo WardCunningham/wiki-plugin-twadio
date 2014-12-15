@@ -7,9 +7,9 @@
       "text": "The event is scheduled for March 23, 2013 and will again be held on the Microsoft 'Studio West' campus, located in Redmond, WA. The agenda this year is a little different then previous years, rather then covering a wide variety of topics, it is very focus on digital networking. [http://www.microhams.com/softcontent.aspx?scId=58 website]"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "5c09c82ff7fab828",
-      "text": "<h3> Special Event"
+      "text": "<h3>Special Event</h3>"
     },
     {
       "type": "paragraph",
@@ -27,9 +27,9 @@
       "text": "[[Scheduled Speakers]] including links for making new pages about their talks."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "318caecab7c6050a",
-      "text": "<h3> Additional Material"
+      "text": "<h3>Additional Material</h3>"
     },
     {
       "type": "paragraph",
@@ -264,6 +264,47 @@
         "text": "[[Elemental Integration Test]] where three people's work came together smoothly."
       },
       "date": 1361574044271
+    },
+    {
+      "type": "edit",
+      "id": "5c09c82ff7fab828",
+      "item": {
+        "type": "html",
+        "id": "5c09c82ff7fab828",
+        "text": "<h3> Special Event"
+      },
+      "date": 1418372117394
+    },
+    {
+      "type": "edit",
+      "id": "5c09c82ff7fab828",
+      "item": {
+        "type": "html",
+        "id": "5c09c82ff7fab828",
+        "text": "<h3>Special Event</h3>"
+      },
+      "date": 1418372125273
+    },
+    {
+      "type": "edit",
+      "id": "318caecab7c6050a",
+      "item": {
+        "type": "html",
+        "id": "318caecab7c6050a",
+        "text": "<h3> Additional Material"
+      },
+      "date": 1418372137778
+    },
+    {
+      "type": "edit",
+      "id": "318caecab7c6050a",
+      "item": {
+        "type": "html",
+        "id": "318caecab7c6050a",
+        "text": "<h3>Additional Material</h3>"
+      },
+      "date": 1418372145384
     }
-  ]
+  ],
+  "plugin": "twadio"
 }

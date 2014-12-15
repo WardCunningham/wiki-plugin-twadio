@@ -7,17 +7,17 @@
       "text": "Any appropriately licensed amateur operator can use this control panel to start and stop the live transmission of notes from attendees at the MicroHAMS Digital Conference."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "e424f7c862d350bd",
-      "text": "<h3> Instructions"
+      "text": "<h3>Instructions</h3>"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "7186c85289553cff",
       "text": "Press <i>Start</i> to begin transmitting the next scheduled notes page. You can click the links in the control panel to preview the transmissions."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "da2f0fabd784c83e",
       "text": "Press <i>Stop</i> to terminate the transmissions immediately. As control operator you can stop transmitting if you have any concern for the proper and legal operation of this station."
     },
@@ -377,6 +377,47 @@
         "text": "FREQ 14.074"
       },
       "date": 1361213172581
+    },
+    {
+      "type": "edit",
+      "id": "e424f7c862d350bd",
+      "item": {
+        "type": "html",
+        "id": "e424f7c862d350bd",
+        "text": "<h3> Instructions"
+      },
+      "date": 1418372242799
+    },
+    {
+      "type": "edit",
+      "id": "e424f7c862d350bd",
+      "item": {
+        "type": "html",
+        "id": "e424f7c862d350bd",
+        "text": "<h3>Instructions</h3>"
+      },
+      "date": 1418372250245
+    },
+    {
+      "type": "edit",
+      "id": "7186c85289553cff",
+      "item": {
+        "type": "html",
+        "id": "7186c85289553cff",
+        "text": "Press <i>Start</i> to begin transmitting the next scheduled notes page. You can click the links in the control panel to preview the transmissions."
+      },
+      "date": 1418372252061
+    },
+    {
+      "type": "edit",
+      "id": "da2f0fabd784c83e",
+      "item": {
+        "type": "html",
+        "id": "da2f0fabd784c83e",
+        "text": "Press <i>Stop</i> to terminate the transmissions immediately. As control operator you can stop transmitting if you have any concern for the proper and legal operation of this station."
+      },
+      "date": 1418372253701
     }
-  ]
+  ],
+  "plugin": "twadio"
 }

@@ -7,49 +7,49 @@
       "text": "We will be live broadcasting your notes to interested amateur radio operators. To be elegible for inclusion pages must end with the sufix \"Notes\"."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "b49329b9afa95379",
-      "text": "<h3> Speakers"
+      "text": "<h3>Speakers</h3>"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "d52bb1e797b77d70",
       "text": "These are suggested page names for your notes about scheduled talks. Tip: Click the link, then chose <i>create</i> from Event and Speaker Notes Template."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "372596c2cc2761d8",
       "text": "[[Bart Kus AE7SJ Notes]]<br>HamWAN – http://www.hamwan.org"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "573a6bf2b68d2bb2",
       "text": "[[Jeremy McDermond NH6Z Notes]]<br>Stupid Raspberry Pi Tricks"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "0bb3bb88f679c529",
       "text": "[[Ward Cunningham K9OX Notes]]<br>Federation and Refactoring for Innovation in Radio"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "77fe67cc8e3100c2",
       "text": "[[Bryan Hoyer KG6GEU Notes]]<br>It's the information rate! NWDigital Radio"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "0d9849f6d6332526",
       "text": "[[John Hays K7VE Notes]]<br>The software! NWDigital Radio"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "b47b7d109a71d259",
       "text": "[[Brian Heaton KY9K Notes]]<br>NW-MESH"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "6bc97b57d52a0860",
-      "text": "<h3> More Notes"
+      "text": "<h3>More Notes</h3>"
     },
     {
       "type": "paragraph",
@@ -520,6 +520,117 @@
       "type": "fork",
       "site": "k9ox.ham.wiki.org",
       "date": 1360770754241
+    },
+    {
+      "type": "edit",
+      "id": "b49329b9afa95379",
+      "item": {
+        "type": "html",
+        "id": "b49329b9afa95379",
+        "text": "<h3> Speakers"
+      },
+      "date": 1418372164394
+    },
+    {
+      "type": "edit",
+      "id": "b49329b9afa95379",
+      "item": {
+        "type": "html",
+        "id": "b49329b9afa95379",
+        "text": "<h3>Speakers</h3>"
+      },
+      "date": 1418372172544
+    },
+    {
+      "type": "edit",
+      "id": "372596c2cc2761d8",
+      "item": {
+        "type": "html",
+        "id": "372596c2cc2761d8",
+        "text": "[[Bart Kus AE7SJ Notes]]<br>HamWAN – http://www.hamwan.org"
+      },
+      "date": 1418372178784
+    },
+    {
+      "type": "edit",
+      "id": "573a6bf2b68d2bb2",
+      "item": {
+        "type": "html",
+        "id": "573a6bf2b68d2bb2",
+        "text": "[[Jeremy McDermond NH6Z Notes]]<br>Stupid Raspberry Pi Tricks"
+      },
+      "date": 1418372180896
+    },
+    {
+      "type": "edit",
+      "id": "77fe67cc8e3100c2",
+      "item": {
+        "type": "html",
+        "id": "77fe67cc8e3100c2",
+        "text": "[[Bryan Hoyer KG6GEU Notes]]<br>It's the information rate! NWDigital Radio"
+      },
+      "date": 1418372195495
+    },
+    {
+      "type": "edit",
+      "id": "0d9849f6d6332526",
+      "item": {
+        "type": "html",
+        "id": "0d9849f6d6332526",
+        "text": "[[John Hays K7VE Notes]]<br>The software! NWDigital Radio"
+      },
+      "date": 1418372197207
+    },
+    {
+      "type": "edit",
+      "id": "b47b7d109a71d259",
+      "item": {
+        "type": "html",
+        "id": "b47b7d109a71d259",
+        "text": "[[Brian Heaton KY9K Notes]]<br>NW-MESH"
+      },
+      "date": 1418372198615
+    },
+    {
+      "type": "edit",
+      "id": "6bc97b57d52a0860",
+      "item": {
+        "type": "html",
+        "id": "6bc97b57d52a0860",
+        "text": "<h3> More Notes"
+      },
+      "date": 1418372201519
+    },
+    {
+      "type": "edit",
+      "id": "6bc97b57d52a0860",
+      "item": {
+        "type": "html",
+        "id": "6bc97b57d52a0860",
+        "text": "<h3>More Notes</h3>"
+      },
+      "date": 1418372214261
+    },
+    {
+      "type": "edit",
+      "id": "d52bb1e797b77d70",
+      "item": {
+        "type": "html",
+        "id": "d52bb1e797b77d70",
+        "text": "These are suggested page names for your notes about scheduled talks. Tip: Click the link, then chose <i>create</i> from Event and Speaker Notes Template."
+      },
+      "date": 1418372230046
+    },
+    {
+      "type": "edit",
+      "id": "0bb3bb88f679c529",
+      "item": {
+        "type": "html",
+        "id": "0bb3bb88f679c529",
+        "text": "[[Ward Cunningham K9OX Notes]]<br>Federation and Refactoring for Innovation in Radio"
+      },
+      "date": 1418543144196
     }
-  ]
+  ],
+  "plugin": "twadio"
 }

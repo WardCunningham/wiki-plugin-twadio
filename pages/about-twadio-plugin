@@ -12,9 +12,9 @@
       "text": "The plugin was developed for a demonstration of live note sharing at the [[MicroHAMS Digital Conference]]."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "52ab6a6f499dbd35",
-      "text": "<h3> Configuraton"
+      "text": "<h3>Configuraton</h3>"
     },
     {
       "type": "paragraph",
@@ -22,22 +22,22 @@
       "text": "Double-click the plugin to reconfigure the transmitter for broadcasts initiated from this particular page. Keywords in all-caps are followed by a single number."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "b84a12070f977ee4",
       "text": "Say <b>FREQ</b> in MHz with 1 Hz resolution. e.g. 14.072025\n"
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "5b4824f9b8b09d4e",
       "text": "Say <b>PHASE</b> in degrees is neutral at 0.0 with a typical range of -20.0 to 20.0."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "ee32b7272e1f958b",
       "text": "Say <b>BALANCE</b> is neutral at 1.0 with a typical range of 0.5 to 1.5. Phase and balance may be obtained from HDSDR channel skew calibration for TX."
     },
     {
-      "type": "paragraph",
+      "type": "html",
       "id": "fb5d7d2b4a5fc67d",
       "text": "Say <b>LEVEL</b> is linear with max at 1.0 and mute at 0.0. Do not use levels higher than 0.5 to avoid clipping due to phase and balance adjustments.\n"
     },
@@ -376,6 +376,67 @@
         "text": "The Twadio plugin provides radio transmitter control and content scheduling for servers equipped with the Peaberry software-defined radio. [https://github.com/fedwiki/wiki-plugins-twadio github]"
       },
       "date": 1389191317901
+    },
+    {
+      "type": "edit",
+      "id": "52ab6a6f499dbd35",
+      "item": {
+        "type": "html",
+        "id": "52ab6a6f499dbd35",
+        "text": "<h3> Configuraton"
+      },
+      "date": 1418372071709
+    },
+    {
+      "type": "edit",
+      "id": "52ab6a6f499dbd35",
+      "item": {
+        "type": "html",
+        "id": "52ab6a6f499dbd35",
+        "text": "<h3>Configuraton</h3>"
+      },
+      "date": 1418372082227
+    },
+    {
+      "type": "edit",
+      "id": "b84a12070f977ee4",
+      "item": {
+        "type": "html",
+        "id": "b84a12070f977ee4",
+        "text": "Say <b>FREQ</b> in MHz with 1 Hz resolution. e.g. 14.072025\n"
+      },
+      "date": 1418372084875
+    },
+    {
+      "type": "edit",
+      "id": "5b4824f9b8b09d4e",
+      "item": {
+        "type": "html",
+        "id": "5b4824f9b8b09d4e",
+        "text": "Say <b>PHASE</b> in degrees is neutral at 0.0 with a typical range of -20.0 to 20.0."
+      },
+      "date": 1418372086083
+    },
+    {
+      "type": "edit",
+      "id": "ee32b7272e1f958b",
+      "item": {
+        "type": "html",
+        "id": "ee32b7272e1f958b",
+        "text": "Say <b>BALANCE</b> is neutral at 1.0 with a typical range of 0.5 to 1.5. Phase and balance may be obtained from HDSDR channel skew calibration for TX."
+      },
+      "date": 1418372088211
+    },
+    {
+      "type": "edit",
+      "id": "fb5d7d2b4a5fc67d",
+      "item": {
+        "type": "html",
+        "id": "fb5d7d2b4a5fc67d",
+        "text": "Say <b>LEVEL</b> is linear with max at 1.0 and mute at 0.0. Do not use levels higher than 0.5 to avoid clipping due to phase and balance adjustments.\n"
+      },
+      "date": 1418372090283
     }
-  ]
+  ],
+  "plugin": "twadio"
 }
