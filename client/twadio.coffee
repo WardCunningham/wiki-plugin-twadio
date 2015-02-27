@@ -1,3 +1,10 @@
+###
+ * Federated Wiki : Twadio Plugin
+ *
+ * Licensed under the MIT license.
+ * https://github.com/fedwiki/wiki-plugin-twadio/blob/master/LICENSE.txt
+###
+
 parse = (text) ->
 	defn = {freq: 14.042, tune: 30, sufix: 'Notes'}
 
