@@ -1,3 +1,10 @@
+###
+ * Federated Wiki : Twadio Plugin
+ *
+ * Licensed under the MIT license.
+ * https://github.com/fedwiki/wiki-plugin-twadio/blob/master/LICENSE.txt
+###
+
 WebSocketServer = require('ws').Server
 fs = require 'fs'
 child = require 'child_process'
