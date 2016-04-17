@@ -1,6 +1,6 @@
 {
   "name": "wiki-plugin-twadio",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Federated Wiki - Twadio Plug-in",
   "keywords": [
     "wiki",
@@ -39,10 +39,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedwiki/wiki-plugin-twadio.git"
+    "url": "https://github.com/wardcunningham/wiki-plugin-twadio.git"
   },
   "bugs": {
-    "url": "https://github.com/fedwiki/wiki-plugin-twadio/issues"
+    "url": "https://github.com/wardcunningham/wiki-plugin-twadio/issues"
   },
   "engines": {
     "node": ">=0.10"
